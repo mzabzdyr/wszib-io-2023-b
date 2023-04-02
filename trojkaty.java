@@ -17,7 +17,6 @@ class Trojkaty {
              System.out.println("Trójkąt równoramienny");
          }
 
-         // TODO: tutaj trzeba bedzie dopisac inne przypadki
     }
     /** Wyświetla ekran pomocy */
     public static void pomoc(){
